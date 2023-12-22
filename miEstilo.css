@@ -8,3 +8,17 @@ body {
   background: blue;
   color: white;
 }
+
+h1 {
+  text-align: center;
+  color: grey;
+}
+
+.container {
+  padding: 0;
+  width: 500px;
+  background: yellow;
+  color: black;
+  margin: 0 auto;
+}
+
